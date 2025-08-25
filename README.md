@@ -7,7 +7,7 @@
 ---
 
 ### 📸 Foto personal  
-![Foto personal](file:///C:/Users/Rxb/Downloads/WhatsApp%20Image%202025-08-25%20at%201.05.29%20PM.jpeg)    
+![Foto personal](file:///C:/Users/Rxb/Downloads/WhatsApp%20Image%202025-08-25%20at%201.05.29%20PM%20(1).jpeg)    
 
 ---
 
