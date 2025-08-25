@@ -1,6 +1,5 @@
 
 # Proyecto-Colaborativo-SCV
-# Proyecto Colaborativo SCV  
 
 ## 👤 Integrante  
 **Nombre:** Jeremy Alejandro Balanta Corrales  
@@ -8,16 +7,15 @@
 ---
 
 ### 📸 Foto personal  
-![Foto personal](./foto.jpg)  
-*(Recuerda subir tu foto al repositorio con el nombre `foto.jpg` para que se muestre aquí)*  
+![Foto personal](file:///C:/Users/Rxb/Downloads/WhatsApp%20Image%202025-08-25%20at%201.05.29%20PM.jpeg)    
 
 ---
 
 ### 📌 Datos personales  
 - **Rol en la industria:** Desarrollador de Software  
-- **Ubicación:** Cali, Colombia  
+- **Ubicación:** Palmira, Colombia  
 - **Perfil breve:**  
-  Soy estudiante con interés en el desarrollo de software, bases de datos y videojuegos en Unity 3D. Me gusta aprender nuevas tecnologías y trabajar en proyectos colaborativos que fortalezcan mis habilidades técnicas y de comunicación.  
+  Soy estudiante de ingenieria multimedia con interés en el desarrollo de softwar, bases de datos y videojuegos en Unity 3D. Me gusta aprender nuevas tecnologías y trabajar en proyectos colaborativos que fortalezcan mis habilidades técnicas y de comunicación.  
 
 ---
 
