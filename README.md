@@ -15,7 +15,7 @@
 - **Rol en la industria:** Desarrollador de Software  
 - **Ubicación:** Palmira, Colombia  
 - **Perfil breve:**  
-  Soy estudiante de ingenieria multimedia con interés en el desarrollo de softwar, bases de datos y videojuegos en Unity 3D. Me gusta aprender nuevas tecnologías y trabajar en proyectos colaborativos que fortalezcan mis habilidades técnicas y de comunicación.  
+  Soy estudiante de ingenieria multimedia con interés en el desarrollo de software, bases de datos y videojuegos en Unity 3D. Me gusta aprender nuevas tecnologías y trabajar en proyectos colaborativos que fortalezcan mis habilidades técnicas y de comunicación.  
 
 ---
 
