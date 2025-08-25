@@ -7,7 +7,7 @@
 ---
 
 ### 📸 Foto personal  
-![Foto personal](file:///C:/Users/Rxb/Downloads/WhatsApp%20Image%202025-08-25%20at%201.05.29%20PM%20(1).jpeg)    
+![Foto personal](https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/32ed6855a92e56773d91d01abd43eb7a~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=b4ba3247&x-expires=1756317600&x-signature=Kxx2O%2F9%2F1iC8qzMxJDmht9W0yuE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva)    
 
 ---
 
