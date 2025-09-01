@@ -1,7 +1,7 @@
 # Proyecto-Colaborativo-SCV
 ## Juan Saavedra
 
-![Foto personal](juan/juansaavedra.jpg.jpg)
+![Foto personal](juan/juansaavedra.jpg)
 
 - **Nombre:** Juan Saavedra  
 - **Rol en la industria:** Game Designer  
