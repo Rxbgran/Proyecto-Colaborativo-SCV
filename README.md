@@ -1,11 +1,20 @@
 # Proyecto-Colaborativo-SCV
 ## Juan Saavedra
+## TAST NUMBER 3 - TEAM MEMBER
 
-![Foto personal](juan/juansaavedra.jpg)
+![Personal Photo](juan/juansaavedra.jpg)
 
-- **Nombre:** Juan Saavedra  
-- **Rol en la industria:** Game Designer  
-- **Ubicación:** Andalucía, Valle del Cauca, Colombia  
-- **Perfil breve:** Soy estudiante de Ingeniería Multimedia, profesor de matemáticas y tecnología. Me apasiona el deporte, las actividades de aventura y vivo mi fe cristiana con convicción. Creo en el poder de las creaciones digitales para inspirar, educar y transformar experiencias.
+📌 **Personal Information**
 
-![Foto comida](juan/salchipapa.jpg)
+**Industry Role:** Designer / User Experience Designer  
+
+**Location:** Andalucía, Valle del Cauca, Colombia  
+
+**Short Profile:**  
+I am a Multimedia Engineering student passionate about design, communication management, photography, and user experience creation. I enjoy collaborating on creative projects that combine aesthetics, functionality, and innovation. My main goal is to design engaging visual environments and develop digital experiences that connect technology with people.
+
+💻 **Project Contribution**
+
+I was responsible for designing the entire visual environment of our Unity project. My work included creating, organizing, and implementing all the textures, materials, and characters within the game scene.  
+I handled the overall artistic direction, making design and visual effect decisions to ensure the project achieved a cohesive and immersive aesthetic.  
+Additionally, I integrated the different graphical elements with the technical components developed by my teammates, ensuring that every asset worked smoothly within the Unity environment.
