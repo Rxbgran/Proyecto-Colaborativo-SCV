@@ -1,6 +1,6 @@
 # Proyecto-Colaborativo-SCV
 ## Juan Saavedra
-## TAST NUMBER 3 - TEAM MEMBER
+## TASK NUMBER 3 - TEAM MEMBER
 
 ![Personal Photo](juan/juansaavedra.jpg)
 
