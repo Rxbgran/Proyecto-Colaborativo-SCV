@@ -1,24 +1,26 @@
 
 # Proyecto-Colaborativo-SCV
 
-## 👤 Integrante  
-**Nombre:** Jeremy Alejandro Balanta Corrales  
+👤 Team Member
 
----
+Name: Jeremy Alejandro Balanta Corrales
 
-### 📸 Foto personal  
-![Foto personal](https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/32ed6855a92e56773d91d01abd43eb7a~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=b4ba3247&x-expires=1756317600&x-signature=Kxx2O%2F9%2F1iC8qzMxJDmht9W0yuE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva)    
+📸 Personal Photo https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/32ed6855a92e56773d91d01abd43eb7a~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=7aec1e22&x-expires=1761872400&x-signature=bF8nWRnx57R9y7SQD41hvCYC1p0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva
 
----
+📌 Personal Information
 
-### 📌 Datos personales  
-- **Rol en la industria:** Desarrollador de Software  
-- **Ubicación:** Palmira, Colombia  
-- **Perfil breve:**  
-  Soy estudiante de ingenieria multimedia con interés en el desarrollo de software, bases de datos y videojuegos en Unity 3D. Me gusta aprender nuevas tecnologías y trabajar en proyectos colaborativos que fortalezcan mis habilidades técnicas y de comunicación.  
+Industry Role: Software Developer
 
----
+Location: Palmira, Colombia
 
-### 🍽️ Plato favorito  
-![Plato favorito](https://static.wixstatic.com/media/7ad47b_def5d558283e4bb19d450db95545da75~mv2.jpg/v1/fill/w_480,h_322,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/7ad47b_def5d558283e4bb19d450db95545da75~mv2.jpg)  
+Short Profile:
+I am a Multimedia Engineering student with a strong interest in software development, databases, and 3D game creation using Unity. I enjoy learning new technologies and collaborating on projects that strengthen both my technical and communication skills.
 
+💻 Project Contribution
+
+I was the programmer responsible for creating the movement scripts in our Unity project.
+The script I developed gives movement functionality to the 3D model created by my teammate Juan Pablo, allowing the character to move smoothly within the environment.
+
+I designed the code to be practical and flexible, so it can easily work with any type of 3D model without requiring major adjustments.
+
+In the next stage, we plan to develop an attack script for both the spider enemies and the player, enhancing the interactivity and gameplay experience of the project.
