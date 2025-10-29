@@ -1,18 +1,20 @@
 ﻿# Proyecto-Colaborativo-SCV
-<h1> 👤Integrante</h1>
-<b>Nombre:</b> Sara Gaviria Cabrera 
+<h1> 👤Member 1 </h1>
+<b>Name:</b> Sara Gaviria Cabrera 
 <br>
-<h1>📸 Foto de perfil </h1>
+<h1>📸Profile Picture </h1>
 <img src="/Sara/fotoPersonal.jpg" alt="foto personal">
 <br>
-<h1>📌Datos personales</h1>
-<li><b>Rol de la industria:</b> Project Manager( Gestión de proyectos)</li>
+<h1>📌Personal information </h1>
+<li><b>Industry role:</b> Project Manager </li>
 <br>
-<li><b> Ubicación:</b> Palmira,(valle del cauca)</li>
+<li><b> Location:</b> Palmira, (Valle del Cauca)</li>
 <br>
-<li><b>Perfil breve:</b><p>Soy estudiante de ingenieria multimedia y voy a enforcarme en la 
-						 especializacion de gestion de proyectos.Me gusta mucho el sector de marketing y todo lo 
-						 relacionado con el arte audiovisual,sin embargo considero que ser "Project Manager" va mas conmigo~ </p> </li>
+<li><b>Brief profile:</b><p>I am a multimedia engineering student and I am going to focus on specializing in project management. 
+							I really like the marketing sector and everything related to audiovisual art, but I think that being
+							a “Project Manager” suits me better </p> </li>
 <br>
-<h1>🍽️ Plato favorito</h1>
-<img src="/Sara/estofado.jpg" alt="platofavorito">
+<h1>💻Contribution to the project </h1>
+<li>I was responsible for coordinating the group, organizing tasks, and ensuring that all group members completed their part on time.
+	In addition, I was also responsible for writing up the project, documenting all technical decisions and compiling the final version 
+	of the project for delivery, taking into account the requirements of the activity guide.</li>
