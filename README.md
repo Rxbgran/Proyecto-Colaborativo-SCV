@@ -5,7 +5,8 @@
 
 Name: Jeremy Alejandro Balanta Corrales
 
-📸 ![Personal Photo](https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/32ed6855a92e56773d91d01abd43eb7a~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=7aec1e22&x-expires=1761872400&x-signature=bF8nWRnx57R9y7SQD41hvCYC1p0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva)
+📸 Personal Photo
+![Personal Photo](https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/32ed6855a92e56773d91d01abd43eb7a~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=7aec1e22&x-expires=1761872400&x-signature=bF8nWRnx57R9y7SQD41hvCYC1p0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=maliva)
 
 📌 Personal Information
 
