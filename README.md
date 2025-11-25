@@ -15,6 +15,4 @@ I am a Multimedia Engineering student passionate about design, communication man
 
 💻 **Project Contribution**
 
-I was responsible for designing the entire visual environment of our Unity project. My work included creating, organizing, and implementing all the textures, materials, and characters within the game scene.  
-I handled the overall artistic direction, making design and visual effect decisions to ensure the project achieved a cohesive and immersive aesthetic.  
-Additionally, I integrated the different graphical elements with the technical components developed by my teammates, ensuring that every asset worked smoothly within the Unity environment.
+For this phase of the videogame development, I was in charge of adding the sound design to the game, including several effects and triggers. I also continued expanding the environment to enhance the overall experience.
